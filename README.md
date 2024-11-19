@@ -1,4 +1,4 @@
-## Hi there :3
+## hi :3
 ![](https://github.com/nabiii000/nabiii000/blob/main/giphy.gif)
 <!--
 **nabiii000/nabiii000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
