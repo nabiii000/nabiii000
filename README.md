@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :3
 
 <!--
 **nabiii000/nabiii000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![giphy (1)](https://github.com/user-attachments/assets/23fab0d5-7c5a-4e2a-a5da-625f8e531342)
+
